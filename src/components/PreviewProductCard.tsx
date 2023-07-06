@@ -27,7 +27,7 @@ function PreviewProductCard({ product }: { product: Product }) {
       />
 
       <div className="pb-10 px-6 pt-5 flex gap-8 flex-col text-sm xl:px-8 xl:pt-8">
-        <p className="uppercase tracking-widest">{product.tag}</p>
+        <p className="uppercase tracking-[0.3em]">{product.tag}</p>
         <h1 className="text-4xl font-serif text-dark_blue">{product.name}</h1>
         <p className="text-lg">{product.description}</p>
         <PriceDisplay
