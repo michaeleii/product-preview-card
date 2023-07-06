@@ -1,4 +1,3 @@
-import Attribution from "./components/Attribution";
 import PreviewProductCard from "./components/PreviewProductCard";
 
 function App() {
@@ -7,8 +6,6 @@ function App() {
       <div>
         <PreviewProductCard />
       </div>
-
-      <Attribution />
     </div>
   );
 }
