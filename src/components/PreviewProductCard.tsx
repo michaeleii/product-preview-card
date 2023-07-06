@@ -10,7 +10,7 @@ function PreviewProductCard() {
         ></source>
         <img
           src="/image-product-mobile.jpg"
-          className="max-w-md rounded-t-lg xl:rounded-t-none xl:rounded-l-lg lg:rounded-tl-lg h-full object-cover xl:w-[300px]"
+          className="max-w-md rounded-t-lg xl:rounded-tr-none xl:rounded-l-lg h-full object-cover xl:w-[280px]"
         />
       </picture>
 
