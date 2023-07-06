@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/michaeleii/product-preview-card](https://github.com/michaeleii/product-preview-card)
+- Solution URL: [https://www.frontendmentor.io/solutions/product-preview-component-using-react-tailwindcss-FSgpFOdZ2\_](https://www.frontendmentor.io/solutions/product-preview-component-using-react-tailwindcss-FSgpFOdZ2_)
 - Live Site URL: [https://michaelleii-product-preview-card.netlify.app/](https://michaelleii-product-preview-card.netlify.app/)
 
 ## Tech Stack
