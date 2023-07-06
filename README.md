@@ -4,17 +4,13 @@ This my solution to the [Product preview card component challenge on Frontend Me
 
 ## Table of contents
 
-- [Product preview card component](#product-preview-card-component)
-  - [Table of contents](#table-of-contents)
-  - [Overview](#overview)
-    - [The challenge](#the-challenge)
-    - [Screenshot](#screenshot)
-    - [Links](#links)
-  - [Tech Stack](#tech-stack)
-    - [Built with](#built-with)
-  - [Author](#author)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [Tech Stack](#tech-stack)
+  - [Built with](#built-with)
+- [Author](#author)
 
 ## Overview
 
