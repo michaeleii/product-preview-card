@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://michaelleii-product-preview-card.netlify.app/)
+- Solution URL: [https://github.com/michaeleii/product-preview-card](https://github.com/michaeleii/product-preview-card)
+- Live Site URL: [https://michaelleii-product-preview-card.netlify.app/](https://michaelleii-product-preview-card.netlify.app/)
 
 ## Tech Stack
 
