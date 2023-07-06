@@ -11,6 +11,7 @@ function PreviewProductCard() {
         <img
           src="/image-product-mobile.jpg"
           className="max-w-md rounded-t-lg xl:rounded-tr-none xl:rounded-l-lg h-full object-cover xl:w-[280px]"
+          alt="Picture of Gabrielle Essence Eau De Parfum perfume"
         />
       </picture>
 
