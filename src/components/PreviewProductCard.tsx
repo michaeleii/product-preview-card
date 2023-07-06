@@ -6,12 +6,11 @@ function PreviewProductCard() {
       <picture>
         <source
           media="(min-width: 1280px)"
-          width={300}
           srcSet="/image-product-desktop.jpg"
         ></source>
         <img
           src="/image-product-mobile.jpg"
-          className="max-w-md rounded-t-lg lg:rounded-t-none lg:rounded-l-lg lg:rounded-tl-lg h-full object-cover"
+          className="max-w-md rounded-t-lg xl:rounded-t-none xl:rounded-l-lg lg:rounded-tl-lg h-full object-cover xl:w-[300px]"
         />
       </picture>
 
